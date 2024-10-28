@@ -72,9 +72,9 @@
     font-family: PT Mono, monospace;
     text-align: center;
     letter-spacing: 0.025em;
-    top: 30%;
+    top: 50%;
     bottom: auto;
-    font-size: 5vw;
+    font-size: 6vw;
 }
 .expiry, .name {
     top: auto;
