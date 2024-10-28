@@ -295,8 +295,12 @@ a.btn-border-gradient {
 }
 
 @media screen and (min-width:480px) {
-     .number {
+         .number {
     /*　画面サイズが480pxからはここを読み込む　*/
-font-size: 3vw;
+font-size: 2vw;
+}
+     .number1 {
+    /*　画面サイズが480pxからはここを読み込む　*/
+font-size: 2vw;
 }
 }
